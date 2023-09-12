@@ -4,39 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <h3 class="follow-me-header">follow me...</h3>
-<ul>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                    <span> - Facebook</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                    <span> - Twitter</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-google-plus" aria-hidden="true"></i>
-                    <span> - Google</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                    <span> - Instagram</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                    <span> - Instagram</span>
-                  </a>
-                </li>
-      
-</ul>
 
 <style>
         @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
@@ -190,3 +157,37 @@
 
 
 </style>
+
+<ul>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                    <span> - Facebook</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                    <span> - Twitter</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-google-plus" aria-hidden="true"></i>
+                    <span> - Google</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                    <span> - Instagram</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                    <span> - Instagram</span>
+                  </a>
+                </li>
+      
+</ul>
