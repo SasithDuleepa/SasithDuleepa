@@ -5,7 +5,7 @@
 
 <h3 class="follow-me-header">follow me...</h3>
 
-<style>
+<!-- <style>
         @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
 
 
@@ -14,9 +14,9 @@
             padding:0;
             background:#ccc;
             font-family: 'Roboto Condensed', sans-serif;
-          
+
           }
-          
+
           ul {
             position:absolute;
             top:50%;
@@ -26,12 +26,12 @@
             margin:0;
             padding:0;
           }
-          
+
           ul li {
             list-style:none;
             margin:0 5px;
           }
-          
+
           ul li a .fa {
             font-size: 40px;
             color: #262626;
@@ -39,7 +39,7 @@
             transition: .5s;
             padding-right: 14px;
           }
-          
+
           ul li a span {
             padding:0;
             margin:0;
@@ -49,7 +49,7 @@
             letter-spacing: 4px;
             transition: .5s;
           }
-          
+
           ul li a {
             text-decoration: none;
             display:absolute;
@@ -85,20 +85,20 @@
             transform: .5s;
             transform: rotate(0deg) skewX(-45deg);
           }
-          
+
           ul li a:hover {
             transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
             box-shadow: -50px 50px 50px rgba(0,0,0,.5);
           }
-          
+
           ul li:hover .fa {
             color:#fff;
           }
-          
+
           ul li:hover span {
             color:#fff;
           }
-          
+
           ul li:hover:nth-child(1) a{
             background: #3b5998;
           }
@@ -108,7 +108,7 @@
           ul li:hover:nth-child(1) a:after{
             background: #4a69ad;
           }
-          
+
           ul li:hover:nth-child(2) a{
             background: #00aced;
           }
@@ -118,7 +118,7 @@
           ul li:hover:nth-child(2) a:after{
             background: #53b9e0;
           }
-          
+
           ul li:hover:nth-child(3) a{
             background: #dd4b39;
           }
@@ -128,7 +128,7 @@
           ul li:hover:nth-child(3) a:after{
             background: #e66a5a;
           }
-          
+
           ul li:hover:nth-child(4) a{
             background: #e4405f;
           }
@@ -189,5 +189,5 @@
                     <span> - Instagram</span>
                   </a>
                 </li>
-      
-</ul>
+
+</ul> -->
