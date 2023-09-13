@@ -1,193 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sasith</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="left">Hi 👋 ,  I am Sasith 😇</h3>
 
-<h3 align="left">Connect with me:</h3>
+###
 
-<h3 class="follow-me-header">follow me...</h3>
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/4ecac6392f3e0f1fb431d125c03a1deb0caac500260cbf061cb90463d654d3b5/68747470733a2f2f7261772e6769746875622e636f6d2f69617468756c2f69617468756c2f6d61737465722f636f6465312e676966"  />
+</div>
 
-<!-- <style>
-        @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+###
 
+<h6 align="center">I'm currently work as a full-stack developer. and learning to be a <br>🎯 software engineer 🎯</h6>
 
-        body {
-            margin:0;
-            padding:0;
-            background:#ccc;
-            font-family: 'Roboto Condensed', sans-serif;
+###
 
-          }
+<h3 align="left">Technologies</h3>
 
-          ul {
-            position:absolute;
-            top:50%;
-            left:50%;
-            transform:translate(-50%, -50%);
-            display:flex;
-            margin:0;
-            padding:0;
-          }
+###
 
-          ul li {
-            list-style:none;
-            margin:0 5px;
-          }
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="43" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="43" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+</div>
 
-          ul li a .fa {
-            font-size: 40px;
-            color: #262626;
-            line-height:80px;
-            transition: .5s;
-            padding-right: 14px;
-          }
+###
 
-          ul li a span {
-            padding:0;
-            margin:0;
-            position:absolute;
-            top: 30px;
-            color: #262626;
-            letter-spacing: 4px;
-            transition: .5s;
-          }
+<img src="https://raw.githubusercontent.com/sasithduleepa/sasithduleepa/output/snake.svg" alt="Snake animation" />
 
-          ul li a {
-            text-decoration: none;
-            display:absolute;
-            display:block;
-            width:210px;
-            height:80px;
-            background: #fff;
-            text-align:left;
-            padding-left: 20px;
-            transform: rotate(-30deg) skew(25deg) translate(0,0);
-            transition:.5s;
-            box-shadow: -20px 20px 10px rgba(0,0,0,.5);
-          }
-          ul li a:before {
-            content: '';
-            position: absolute;
-            top:10px;
-            left:-20px;
-            height:100%;
-            width:20px;
-            background: #b1b1b1;
-            transform: .5s;
-            transform: rotate(0deg) skewY(-45deg);
-          }
-          ul li a:after {
-            content: '';
-            position: absolute;
-            bottom:-20px;
-            left:-10px;
-            height:20px;
-            width:100%;
-            background: #b1b1b1;
-            transform: .5s;
-            transform: rotate(0deg) skewX(-45deg);
-          }
+###
 
-          ul li a:hover {
-            transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
-            box-shadow: -50px 50px 50px rgba(0,0,0,.5);
-          }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasithduleepa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sasithduleepa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-          ul li:hover .fa {
-            color:#fff;
-          }
+###
 
-          ul li:hover span {
-            color:#fff;
-          }
+<h3 align="left">Reach Me</h3>
 
-          ul li:hover:nth-child(1) a{
-            background: #3b5998;
-          }
-          ul li:hover:nth-child(1) a:before{
-            background: #365492;
-          }
-          ul li:hover:nth-child(1) a:after{
-            background: #4a69ad;
-          }
+###
 
-          ul li:hover:nth-child(2) a{
-            background: #00aced;
-          }
-          ul li:hover:nth-child(2) a:before{
-            background: #097aa5;
-          }
-          ul li:hover:nth-child(2) a:after{
-            background: #53b9e0;
-          }
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
-          ul li:hover:nth-child(3) a{
-            background: #dd4b39;
-          }
-          ul li:hover:nth-child(3) a:before{
-            background: #b33a2b;
-          }
-          ul li:hover:nth-child(3) a:after{
-            background: #e66a5a;
-          }
-
-          ul li:hover:nth-child(4) a{
-            background: #e4405f;
-          }
-          ul li:hover:nth-child(4) a:before{
-            background: #d81c3f;
-          }
-          ul li:hover:nth-child(4) a:after{
-            background: #e46880;
-          }
-
-          ul li:hover:nth-child(5) a{
-            background: #40ac40;
-          }
-          ul li:hover:nth-child(5) a:before{
-            background: #08e979;
-          }
-          ul li:hover:nth-child(5) a:after{
-            background: #0f8b47;
-          }
-
-          .follow-me-header{
-            font-size: 34px;
-            font-weight: 600;
-            text-align: center;
-          }
-
-
-</style>
-
-<ul>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                    <span> - Facebook</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                    <span> - Twitter</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-google-plus" aria-hidden="true"></i>
-                    <span> - Google</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                    <span> - Instagram</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                    <span> - Instagram</span>
-                  </a>
-                </li>
-
-</ul> -->
+###
