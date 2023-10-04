@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">I'm currently work as a full-stack developer. and learning to be a <br>🎯 software engineer 🎯</h6>
+<h3 align="center">I'm currently work as a full-stack developer. and learning to be a <br>🎯 software engineer 🎯</h3>
 
 ###
 
