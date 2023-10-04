@@ -64,7 +64,7 @@
 ###
 
 <div align="left">
-  <img src="www.linkedin.com/in/sasith-duleepa" width="52" height="40" alt="www.linkedin.com/in/sasith-duleepa"  />
+<!--   <img src="www.linkedin.com/in/sasith-duleepa" width="52" height="40" alt="www.linkedin.com/in/sasith-duleepa"  /> -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
