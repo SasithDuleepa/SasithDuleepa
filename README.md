@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋 <br>  I am <b>Sasith</b> 😇</h1>
+<h1 align="center">Hi 👋 <br>  I'm <b>Sasith</b> 😇</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4ecac6392f3e0f1fb431d125c03a1deb0caac500260cbf061cb90463d654d3b5/68747470733a2f2f7261772e6769746875622e636f6d2f69617468756c2f69617468756c2f6d61737465722f636f6465312e676966"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
 </div>
 
 ###
 
-<h3 align="center">I'm currently work as a full-stack developer. and learning to be a <br>🎯 software engineer 🎯</h3>
+<h3 align="center">I'm currently work as a Software Engineer.</h3>
 
 ###
 
